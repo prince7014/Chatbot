@@ -1,0 +1,6 @@
+{
+  "name": "PathFinder AI - College Career Guidance & Launchpad",
+  "description": "AI-powered career guidance counselor for college students featuring personalized career recommendations, skill gap analysis, course pathways, resume builder with ATS checker, mock interview practice, internship guidance, visual learning roadmaps, and voice interaction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
